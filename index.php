@@ -1,13 +1,13 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <link rel="stylesheet" href="bootstrap.min.css"/>
-    <link rel="stylesheet" href="mycss.css"/>
-    <script type="text/javascript" src="myscript.js">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/mycss.css"/>
+    <script type="text/javascript" src="js/myscript.js">
     </script>
-    <script type="text/javascript" src="bootstrap.min.js">
+    <script type="text/javascript" src="js/bootstrap.min.js">
     </script>
-    <script type="text/javascript" src="jquery.min.js">
+    <script type="text/javascript" src="js/jquery.min.js">
     </script>
     <script type="text/javascript" src="https://www.google.com/jsapi">
     </script>
