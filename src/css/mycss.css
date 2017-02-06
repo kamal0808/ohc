@@ -1,0 +1,56 @@
+.wrap
+{
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.header
+{
+    height: 100px;
+}
+
+.notibar
+{
+    height: 80px;
+    background: #cccccc;
+}
+
+.midder
+{
+    height: 700px;
+    margin: 0 30px;
+}
+
+.code-input,.code-output
+{
+    
+    height: 500px;
+}
+
+#transliterateTextarea
+{
+    height: 400px;
+    width: 565px;
+}
+
+.code-input-area,.code-output-area
+{
+    padding: 10px;
+    background: #cccccc;
+    height: 500px;
+}
+
+.instructions
+{
+    cursor: pointer;
+}
+
+.instructions-area
+{
+    display: none;
+}
+
+.code-output-area
+{
+    overflow: auto;
+}
