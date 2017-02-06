@@ -15,10 +15,10 @@ Contributions to the project are welcome.
 ###Steps to run:
 1) Install [Docker](https://www.docker.com)    
 2) Run this command `docker pull shoppinpaldevops/online-hindi-compiler`    
-3) After the image is pulled, start server `docker run -d -p 80:80 --name ohc online-hindi-compiler`
-4) In your web browser, go to `http://localhost:80`. 
-5) Copy any of sample hindi programs from the folder `Sample Hindi Programs`. 
-6) Run the program, or create your own program using instructions mentioned in the landing page.
+3) After the image is pulled, start server `docker run -d -p 80:80 --name ohc online-hindi-compiler`    
+4) In your web browser, go to `http://localhost:80`.     
+5) Copy any of sample hindi programs from the folder `Sample Hindi Programs`.     
+6) Run the program, or create your own program using instructions mentioned in the landing page.   
 
 ###Dockerfile Explained
 * Docker helps set up a php-apache configuration as specified in the Dockerfile.
